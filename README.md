@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
