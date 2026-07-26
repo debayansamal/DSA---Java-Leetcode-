@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
+## String
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
+## Simulation
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
