@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
