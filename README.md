@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -47,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 ## String
 |  |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
