@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0344-reverse-string) |
 | [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 ## Simulation
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
