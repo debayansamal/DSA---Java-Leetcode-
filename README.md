@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0344-reverse-string) |
 | [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0647-palindromic-substrings) |
