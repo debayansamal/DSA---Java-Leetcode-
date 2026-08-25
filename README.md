@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
