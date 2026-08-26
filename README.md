@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0125-valid-palindrome) |
