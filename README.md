@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0567-permutation-in-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0567-permutation-in-string) |
 | [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0647-palindromic-substrings) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
