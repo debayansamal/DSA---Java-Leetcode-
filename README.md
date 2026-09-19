@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0640-solve-the-equation](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0640-solve-the-equation) |
 ## String
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
