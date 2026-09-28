@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0704-binary-search) |
