@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
