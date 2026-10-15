@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/debayansamal/DSA---Java-Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
